@@ -1,4 +1,5 @@
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Chuntim0303/rental-app/blob/main/%7B4E694D74-200A-43BB-824D-84037B61C2A9%7D.png))
+![Uploading {6FB4EE0D-ED36-4A32-B7FA-8C794778FBED}.png…]()
+
 
 ## Problem Statement
 This [project](https://rental-app-950459599507.asia-southeast1.run.app/) aims to estimate property rental prices using a predictive model. By analyzing various property attributes like location, number of rooms, size, and furnishing status, this tool provides an estimate of potential rent. The tool helps both renters and landlords make informed decisions by providing rental price predictions.<br>
