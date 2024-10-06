@@ -1,8 +1,8 @@
 ![alt text]({4E694D74-200A-43BB-824D-84037B61C2A9}.png?raw=true)
-
+[Click Me!](https://rental-app-950459599507.asia-southeast1.run.app/)
 
 ## Problem Statement
-This [project](https://rental-app-950459599507.asia-southeast1.run.app/) aims to estimate property rental prices using a predictive model. By analyzing various property attributes like location, number of rooms, size, and furnishing status, this tool provides an estimate of potential rent. The tool helps both renters and landlords make informed decisions by providing rental price predictions.<br>
+This project aims to estimate property rental prices using a predictive model. By analyzing various property attributes like location, number of rooms, size, and furnishing status, this tool provides an estimate of potential rent. The tool helps both renters and landlords make informed decisions by providing rental price predictions.<br>
 <br>
 
 ## Data Overview
