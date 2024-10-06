@@ -11,6 +11,7 @@ Location
 - Number of bathrooms
 - Parking availability
 - Furnishing status
+<br>
 
 
 ## Exploratory Data Analysis (EDA)
