@@ -22,6 +22,7 @@ The 'size' feature shows a right-skewed distribution with outliers. These outlie
 
 Distribution of Property Sizes:
 A scatter plot is used to examine the relationship between property size and number of rooms, showing a positive correlation. Larger properties tend to have higher rental prices.
+<br>
 
 ## Correlation Heatmap:
 A heatmap displays correlations between features such as:
@@ -29,6 +30,7 @@ A heatmap displays correlations between features such as:
 Size vs Bathroom (0.44), Size vs Rooms (0.38): Moderate positive correlations.
 Rooms vs Bathroom (0.68): Strong positive relationship.
 Weak correlations between parking and other features.
+<br>
 <br>
 
 ## Modeling
@@ -40,6 +42,7 @@ Gradient Boosting Regressor:
 - Moderate performance with RMSE of 391.78 and R² of 0.64.
 Linear Regression:
 - Worst performance with RMSE (466.96) and R² (0.49).
+<br>
 <br>
 
 ## Feature Importance:
@@ -56,6 +59,7 @@ Key Findings:
 - The Random Forest model provides accurate rental price predictions.
 - Size, furnishing, and location are the most influential factors in determining rental prices.
 <br>
+
 
 ## Recommendations:
 For Renters: Use this tool to estimate how much you might pay based on property features.
