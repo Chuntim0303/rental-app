@@ -1,4 +1,4 @@
-![Uploading {6FB4EE0D-ED36-4A32-B7FA-8C794778FBED}.png…]()
+![alt text]({4E694D74-200A-43BB-824D-84037B61C2A9}.png?raw=true)
 
 
 ## Problem Statement
