@@ -16,19 +16,20 @@ Location
 
 ## Exploratory Data Analysis (EDA)
 The EDA helps uncover insights and patterns within the data. It also helps in data cleaning and making model more accurate. Key visualizations and analyses performed include:
+
 Boxplots of Continuous Variables:
-The 'size' feature shows a right-skewed distribution with outliers. These outliers are removed using a Z-score threshold of 3 to improve model performance.
+- The 'size' feature shows a right-skewed distribution with outliers. These outliers are removed using a Z-score threshold of 3 to improve model performance.
 Distribution of Property Sizes:
-A scatter plot is used to examine the relationship between property size and number of rooms, showing a positive correlation. Larger properties tend to have higher rental prices.
+- A scatter plot is used to examine the relationship between property size and number of rooms, showing a positive correlation. Larger properties tend to have higher rental prices.
 <br>
 
 
 ## Correlation Heatmap:
 A heatmap displays correlations between features such as:
 
-Size vs Bathroom (0.44), Size vs Rooms (0.38): Moderate positive correlations.
-Rooms vs Bathroom (0.68): Strong positive relationship.
-Weak correlations between parking and other features.
+- Size vs Bathroom (0.44), Size vs Rooms (0.38): Moderate positive correlations.
+- Rooms vs Bathroom (0.68): Strong positive relationship.
+- Weak correlations between parking and other features.
 <br>
 
 
