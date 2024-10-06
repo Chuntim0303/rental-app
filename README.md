@@ -11,7 +11,7 @@ Location
 - Number of bathrooms
 - Parking availability
 - Furnishing status
-<br>
+
 
 ## Exploratory Data Analysis (EDA)
 The EDA helps uncover insights and patterns within the data. Key visualizations and analyses performed include:
