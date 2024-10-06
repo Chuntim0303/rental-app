@@ -1,5 +1,3 @@
-# Rental App
-
 ## Problem Statement
 This project aims to estimate property rental prices using a predictive model. By analyzing various property attributes like location, number of rooms, size, and furnishing status, this tool provides an estimate of potential rent. The tool helps both renters and landlords make informed decisions by providing rental price predictions.
 
