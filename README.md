@@ -24,6 +24,7 @@ Distribution of Property Sizes:
 A scatter plot is used to examine the relationship between property size and number of rooms, showing a positive correlation. Larger properties tend to have higher rental prices.
 <br>
 
+
 ## Correlation Heatmap:
 A heatmap displays correlations between features such as:
 
@@ -31,7 +32,7 @@ Size vs Bathroom (0.44), Size vs Rooms (0.38): Moderate positive correlations.
 Rooms vs Bathroom (0.68): Strong positive relationship.
 Weak correlations between parking and other features.
 <br>
-<br>
+
 
 ## Modeling
 Several machine learning algorithms were tested to predict rental prices:
